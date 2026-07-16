@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Jacky-111111/CMU-QPA-Plus.git
+   git clone https://github.com/jackyuyz/CMU-QPA-Plus.git
    cd CMU-QPA-Plus
    ```
 
@@ -268,7 +268,7 @@ This is not an official tool presented by Carnegie Mellon University. This calcu
 **Jack Yu**
 
 - Email: jacky2@andrew.cmu.edu
-- GitHub: [@Jacky-111111](https://github.com/Jacky-111111)
+- GitHub: [@jackyuyz](https://github.com/jackyuyz)
 - Website: [cmuqpa.com](https://cmuqpa.com)
 
 ## 🙏 Acknowledgments
