@@ -166,7 +166,7 @@ In real-world testing, that path was unstable in this environment (SSL certifica
 
 Current implementation uses:
 
-- `https://course-tools.apis.scottylabs.org/course/<COURSE_ID>`
+- `https://course.apis.scottylabs.org/course/<COURSE_ID>`
 
 Behavior:
 

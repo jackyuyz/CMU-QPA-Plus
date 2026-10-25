@@ -1,6 +1,6 @@
 // API Configuration
 const API_URL = "http://127.0.0.1:8000/calculate-qpa";
-const SCOTTYLABS_COURSE_API_BASE = "https://course-tools.apis.scottylabs.org/course";
+const SCOTTYLABS_COURSE_API_BASE = "https://course.apis.scottylabs.org/course";
 
 // Application State
 let courses = [];

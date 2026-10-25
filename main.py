@@ -82,7 +82,7 @@ def get_course_units(course_id: str):
     last_error = None
 
     for upstream_course_id in candidates:
-        api_url = f"https://course-tools.apis.scottylabs.org/course/{upstream_course_id}"
+        api_url = f"https://course.apis.scottylabs.org/course/{upstream_course_id}"
         print(f"[course-units] trying upstream: {api_url}")
 
         req = url_request.Request(
